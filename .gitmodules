@@ -1,0 +1,6 @@
+[submodule "rust-factorial"]
+	path = rust-factorial
+	url = https://github.com/mr-m0nkey/rust-factorial
+[submodule "rust-currency-converter"]
+	path = rust-currency-converter
+	url = https://github.com/mr-m0nkey/rust-currency-converter
