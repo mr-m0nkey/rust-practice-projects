@@ -9,3 +9,4 @@
 [submodule "rust-fibonacci-stopper"]
 	path = rust-fibonacci-stopper
 	url = https://github.com/mr-m0nkey/rust-fibonacci-stopper
+	branch = main
